@@ -3,7 +3,7 @@ show hidden card numbers for trello using javascript
 
 
 ## How to use
-using browser extension call [Userscript](### Userscript extension)
+using browser extension call [Userscript](#userscript-extension)
 
 
 ##### 1. copy script [here](https://raw.githubusercontent.com/yokeTH/trello-show-card-numbers/master/trello-show-card-numbers.user.js)
